@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UE4\\Projects\\BatteryCollector\\Source\\BatteryCollector\\BatteryCollector.Build.cs",
+		"E:\\UE4\\Projects\\BatteryCollector\\Source\\BatteryCollector.Target.cs",
+		"E:\\UE4\\Projects\\BatteryCollector\\Source\\BatteryCollectorEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

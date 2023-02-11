@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BatteryCollector",
+			"Path": "E:\\UE4\\Projects\\BatteryCollector\\Source\\BatteryCollector.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BatteryCollectorEditor",
+			"Path": "E:\\UE4\\Projects\\BatteryCollector\\Source\\BatteryCollectorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
